@@ -13,9 +13,8 @@ Experimental UWP app for W10(M).
 ![](Images/screenshot.png)
 
 ## Win SDK (W10M compatibility)
-
-Normal : 10.0.19041.0
-Minimal: 10.0.10240.0 
+- Normal : 10.0.19041.0
+- Minimal: 10.0.10240.0 
 
 ## ..
 As is. No support. RnD only. DIY
