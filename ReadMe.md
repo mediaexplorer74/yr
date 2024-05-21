@@ -1,4 +1,4 @@
-# yr (YandexRasp aka ЯндексРасписания) v1.0=pre-pre-pre-alpha - master branch
+# yr (YandexRasp aka ЯндексРасписания) v1.0=pre-pre-pre-alpha - main branch
 
 ## About
 This thing planned as unofficial YandexRaspisaniya app (in future).
